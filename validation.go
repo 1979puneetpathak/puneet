@@ -19,7 +19,7 @@ func validateInput(input string, dictionary string) ([]string,[]string,error)  {
 	dictionary_file, err := os.Open(dictionary)
 
 	if err != nil {
-		log.Fatalf("Invalid file specified in dictionary parameter: %s", err)
+		return nil,nil,errors.New("INVALID FILE SPECIFIED IN DICTIONARY PARAMETER")
 	}
 
 	defer input_file.Close()
@@ -30,10 +30,10 @@ func validateInput(input string, dictionary string) ([]string,[]string,error)  {
 
 	scanner.Split(bufio.ScanLines)
 
-	serch_text := []string{}
+	input_text := []string{}
 
 	for scanner.Scan() {
-		serch_text = append(serch_text, scanner.Text())
+		input_text = append(input_text, scanner.Text())
 	}
 
 	scanner = bufio.NewScanner(dictionary_file)
@@ -45,18 +45,6 @@ func validateInput(input string, dictionary string) ([]string,[]string,error)  {
 	for scanner.Scan() {
 		serch_line = append(serch_line, scanner.Text())
 	}
-
-
-
-
-
-
-
-
-
-
-
-	input_text := []string{}
 
 	input_text_map := make(map[string]bool)
 
@@ -78,6 +66,6 @@ func validateInput(input string, dictionary string) ([]string,[]string,error)  {
 		return nil,nil,errors.New("TOTAL LENGTH OF WORDS IN DICTIONARY SHOULD NOT EXCEED 105")
 	}
 
-	return nil,nil,nil
+	return serch_line,input_text,nil
 
 }

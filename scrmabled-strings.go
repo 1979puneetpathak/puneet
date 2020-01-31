@@ -1,11 +1,8 @@
 package main
 
 import (
-	"bufio"
 	"flag"
 	"fmt"
-	"log"
-	"os"
 	"regexp"
 	"sort"
 	"strconv"
@@ -19,16 +16,11 @@ func main() {
 
 	input := flag.String("input", "", "An input file that contains a list of long strings, each on a " +
 		"newline, that you will need touse to search for your dictionary words. E.g. “btahand”")
-fmt.Println(dictionary)
+
 	flag.Parse()
 
 
-
-	fmt.Println(serch_text)
-	fmt.Println(serch_line)
-
-
-	err = validateInput(serch_text)
+	serch_line, serch_text, err := validateInput(*input, *dictionary)
 
 	if err != nil {
 		fmt.Println(err)
