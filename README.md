@@ -1,5 +1,5 @@
 
-#### **_The Scrmabled Strings Program_**
+### **The Scrmabled Strings Program**
 
 Count how many of the words from a dictionary appear as substrings in a long string of
 characters either in their original form or in their scrambled form. The scrambled form of the
