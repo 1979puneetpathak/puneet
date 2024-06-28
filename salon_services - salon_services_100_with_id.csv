@@ -1,0 +1,101 @@
+service_id,service_category,service_name,cost,description
+e1beca05-ca7f-491c-a240-f15c306b583f,Massage,Hot Stone Massage,88,Massage using heated stones to relieve tension
+3472a0fe-5ddf-4643-84f6-9e58d849c627,Hair,Haircut,48,Basic haircut and styling
+025221ac-7067-47ba-9858-893096b5ad9d,Hair,Hair Treatment,52,Treatment to improve hair health
+0a920d4a-062e-4072-b010-1fd71af8fb1e,Hair,Hair Coloring,69,Full hair coloring service
+cb8b9c99-618a-41b4-9ea6-129b449d117c,Massage,Hot Stone Massage,88,Massage using heated stones to relieve tension
+fb6cd7dd-c2ca-4f2b-a5c7-1164d4af1188,Massage,Hot Stone Massage,108,Massage using heated stones to relieve tension
+303c3cc0-1436-480c-9c6d-d863b0456a91,Massage,Deep Tissue Massage,77,Intense massage focused on deep tissue layers
+8346f9e5-aa94-43a5-83a8-bebb00b7850d,Massage,Deep Tissue Massage,88,Intense massage focused on deep tissue layers
+03b36dba-8ae2-4149-bcd6-369a7d3b1012,Hair,Haircut,25,Basic haircut and styling
+dcd094bf-9ad5-4346-9ccf-7ff23983656f,Hair,Haircut,31,Basic haircut and styling
+5983d2c6-7c52-4e4d-8fec-43a8712b3deb,Hair,Hair Coloring,81,Full hair coloring service
+0b2de4c0-5816-482b-af92-8ac497a58f28,Massage,Deep Tissue Massage,75,Intense massage focused on deep tissue layers
+0b8d1fca-dbc2-437e-9bcb-3c2ed9cfdb11,Massage,Deep Tissue Massage,81,Intense massage focused on deep tissue layers
+1dba66a5-e796-471f-8196-03042eded059,Massage,Hot Stone Massage,105,Massage using heated stones to relieve tension
+ed52574c-9fe8-4bf9-9133-0297390f85c3,Massage,Hot Stone Massage,102,Massage using heated stones to relieve tension
+7f416077-4368-4bea-b461-c4d644d80281,Massage,Swedish Massage,62,Relaxing full-body massage using Swedish techniques
+3fc12055-0e6b-4d4f-bae9-315f45b0679c,Massage,Swedish Massage,73,Relaxing full-body massage using Swedish techniques
+a03b9c95-6d7c-4f4f-8ffd-95e1f4f89970,Hair,Hair Treatment,70,Treatment to improve hair health
+02deface-b871-43cf-819f-e57fc1f27f39,Hair,Haircut,49,Basic haircut and styling
+f4661d49-70ee-44a8-aeee-07faf97c2c78,Hair,Hair Coloring,87,Full hair coloring service
+f056499a-17f2-42de-8b95-f719cf4324e2,Massage,Swedish Massage,65,Relaxing full-body massage using Swedish techniques
+f0b0e991-f444-4e76-8f16-4d6ae7fde3fc,Hair,Hair Treatment,49,Treatment to improve hair health
+d333f343-e330-4785-bc6a-f3f6c434d9a5,Hair,Hair Coloring,89,Full hair coloring service
+19f45e7f-fda7-4ebd-845e-ee1dcf365440,Hair,Hair Treatment,48,Treatment to improve hair health
+d393b1eb-e36f-48c4-bc3c-9f7539f01a6f,Hair,Haircut,37,Basic haircut and styling
+472d9137-ea00-4830-9eea-7efb8b107b70,Hair,Haircut,36,Basic haircut and styling
+ce58fb6c-6a74-4a2a-9a29-1f27e5b53aab,Hair,Hair Treatment,64,Treatment to improve hair health
+4fc20f8e-040e-4496-a029-f036fe62e09d,Hair,Hair Treatment,70,Treatment to improve hair health
+9885d359-6e4d-46f0-bdc3-3c5fb6708a1f,Hair,Haircut,48,Basic haircut and styling
+a7d18965-5eb3-4dcf-8160-76fee158d64d,Massage,Swedish Massage,72,Relaxing full-body massage using Swedish techniques
+1db23500-4cd3-437d-87ff-5da57ca713e7,Hair,Haircut,37,Basic haircut and styling
+cd2efe1a-a9ca-4910-9462-6493a6013a72,Hair,Haircut,42,Basic haircut and styling
+9a12324f-7ed8-4857-8e25-48a74ef27e10,Hair,Hair Treatment,65,Treatment to improve hair health
+f9a2c242-0a09-425b-9685-ecb34bf20b97,Massage,Deep Tissue Massage,86,Intense massage focused on deep tissue layers
+c8d003ac-4968-408a-997d-5baeb2baf0d9,Massage,Deep Tissue Massage,81,Intense massage focused on deep tissue layers
+5f6e5587-f830-492f-aa3a-950ac6b7e793,Massage,Hot Stone Massage,87,Massage using heated stones to relieve tension
+a95812df-9dc5-4de2-838d-5c54094c91b8,Hair,Haircut,46,Basic haircut and styling
+8f29e81c-79ad-43cb-b87d-cc961339afa1,Hair,Hair Coloring,89,Full hair coloring service
+390df9a2-9729-4852-841f-4c9261ab4af4,Hair,Hair Treatment,47,Treatment to improve hair health
+1eb9166d-ab79-416e-82d2-9897f54647db,Hair,Hair Coloring,68,Full hair coloring service
+588b1ff6-850a-4211-9443-e6607b6baa24,Massage,Swedish Massage,63,Relaxing full-body massage using Swedish techniques
+fd2bd027-d9c8-4882-9401-a056d6857cd3,Massage,Swedish Massage,75,Relaxing full-body massage using Swedish techniques
+5fda3898-0e22-4094-b7c6-0cb556b527d3,Hair,Hair Treatment,50,Treatment to improve hair health
+cda80061-d950-4270-a6ca-fb0cc49e2a3d,Hair,Hair Treatment,56,Treatment to improve hair health
+43712d9e-dc8c-44a9-9062-dae5b5a5e48b,Hair,Hair Coloring,86,Full hair coloring service
+16affe72-fa3f-4a6a-8294-26d7b21b64b1,Hair,Hair Treatment,67,Treatment to improve hair health
+084c4c36-7208-432f-a2ce-a2d1a6b8ff16,Massage,Hot Stone Massage,105,Massage using heated stones to relieve tension
+26186cb9-875e-4a7e-b961-e2b34461eb92,Hair,Haircut,44,Basic haircut and styling
+fe28962b-9aee-442e-a6bf-19fa00aff39c,Massage,Hot Stone Massage,90,Massage using heated stones to relieve tension
+534ed620-5bed-4731-83e1-7798cd6926b3,Massage,Deep Tissue Massage,98,Intense massage focused on deep tissue layers
+7fee2fd5-7088-4bee-8c7c-ced470f6163f,Hair,Hair Coloring,70,Full hair coloring service
+8396c721-85ee-4690-8c45-b9bcc535b2c0,Massage,Swedish Massage,67,Relaxing full-body massage using Swedish techniques
+20d15f34-bfce-4034-9a6f-2704d28e8a04,Hair,Hair Treatment,65,Treatment to improve hair health
+dc21c39e-35c9-4d60-978a-d0a7531a3a45,Massage,Hot Stone Massage,102,Massage using heated stones to relieve tension
+c176ed5f-a6f4-4e08-bcec-77f4ae967192,Hair,Hair Coloring,86,Full hair coloring service
+3c77379e-cc57-4c08-85e5-62fc4c891df8,Hair,Hair Treatment,69,Treatment to improve hair health
+f466ae0a-abdd-48c8-957f-b2318813d96b,Hair,Haircut,32,Basic haircut and styling
+20b2d430-2f8c-45fd-b0e9-f52c6f4b86b7,Hair,Haircut,50,Basic haircut and styling
+f28b7a4d-8d82-4fc8-a90d-723a42989945,Hair,Hair Treatment,57,Treatment to improve hair health
+24557dfd-d838-49d9-8073-efbe54b1d643,Hair,Hair Treatment,47,Treatment to improve hair health
+f73d8cda-32d0-4963-8565-6f802231c1e3,Hair,Hair Coloring,83,Full hair coloring service
+a7430e1b-99ea-47cc-8786-af45f5ab8dbf,Massage,Hot Stone Massage,95,Massage using heated stones to relieve tension
+c1509023-af10-4346-8a67-d09921679c51,Hair,Hair Coloring,85,Full hair coloring service
+a7433861-3584-407a-8f74-158124b8d316,Massage,Swedish Massage,67,Relaxing full-body massage using Swedish techniques
+31b3f30c-d4c6-4642-bf19-ccba27c74bf0,Massage,Hot Stone Massage,99,Massage using heated stones to relieve tension
+fa8d68bf-af30-4371-b780-6f39f1e67d15,Hair,Hair Coloring,73,Full hair coloring service
+b475e8a2-76ba-4b16-aed2-5a32da1eb57c,Hair,Hair Coloring,72,Full hair coloring service
+7ab23e9b-e7c0-435d-97c0-44df376b9b85,Massage,Hot Stone Massage,102,Massage using heated stones to relieve tension
+ba967c1b-3806-4b81-928e-98b0bc9c8426,Massage,Deep Tissue Massage,83,Intense massage focused on deep tissue layers
+b29ed439-ff8f-4288-98c7-71023f44b503,Massage,Hot Stone Massage,103,Massage using heated stones to relieve tension
+ee4f96ae-2209-4f35-97ac-e3286c0f1393,Massage,Swedish Massage,73,Relaxing full-body massage using Swedish techniques
+c026fc7a-4018-476d-bb58-021ec69372f4,Massage,Swedish Massage,66,Relaxing full-body massage using Swedish techniques
+f774f598-299d-4676-8e7b-066376a2805f,Hair,Hair Coloring,69,Full hair coloring service
+398d3ef8-9bc9-49d9-8a89-4ea479f39a6b,Massage,Deep Tissue Massage,90,Intense massage focused on deep tissue layers
+9c17d15b-d706-4bbe-9310-6ef09dcbf80b,Hair,Haircut,49,Basic haircut and styling
+1d075176-e819-46f8-acf9-bcd1fdd2af75,Hair,Haircut,28,Basic haircut and styling
+c0e8853c-790b-4742-af87-f1a59403b6a6,Hair,Hair Coloring,85,Full hair coloring service
+508b3569-6c38-454a-adbe-25d3e2f347eb,Hair,Hair Coloring,90,Full hair coloring service
+78b36b0c-05d8-4a89-9d58-006413f7b1c1,Massage,Hot Stone Massage,98,Massage using heated stones to relieve tension
+584f7622-5b7b-4612-8165-4b53ee0c5d85,Massage,Deep Tissue Massage,77,Intense massage focused on deep tissue layers
+bb8fb694-876e-4426-97ef-1b209fa8b737,Massage,Swedish Massage,67,Relaxing full-body massage using Swedish techniques
+bf5015ff-e8e8-453b-bcc7-ff4e334bc232,Massage,Deep Tissue Massage,89,Intense massage focused on deep tissue layers
+9e39b1db-e59b-4230-bcfe-8e892e9bb043,Massage,Deep Tissue Massage,83,Intense massage focused on deep tissue layers
+f0877e38-59e7-4e0d-99e9-848b1bbc18f6,Massage,Deep Tissue Massage,75,Intense massage focused on deep tissue layers
+e0455fe4-c957-47af-a9a7-914ff2249fd0,Massage,Hot Stone Massage,108,Massage using heated stones to relieve tension
+433acc64-5634-4deb-9317-5c48ded89069,Hair,Haircut,46,Basic haircut and styling
+d143ab69-dcf1-4fd7-9c5d-bfc526b32b6f,Massage,Deep Tissue Massage,99,Intense massage focused on deep tissue layers
+79cad32d-5402-4add-af47-82f6e461da3e,Hair,Hair Treatment,69,Treatment to improve hair health
+99e0ed9d-97be-4e39-9d2c-f91b6cfb3b33,Massage,Hot Stone Massage,95,Massage using heated stones to relieve tension
+d8fdf8e9-6dc6-4a4b-b35d-699d048ccdf5,Hair,Haircut,34,Basic haircut and styling
+a9a169f2-6fda-4125-96c6-7698906c3fa2,Massage,Swedish Massage,60,Relaxing full-body massage using Swedish techniques
+9f646afd-016e-4a91-8b99-962159842f05,Massage,Swedish Massage,55,Relaxing full-body massage using Swedish techniques
+ba92895a-9f91-48c3-bb79-62256917f4c4,Massage,Hot Stone Massage,108,Massage using heated stones to relieve tension
+57d1c5f8-5721-42fc-a2b5-f7d65ec3455b,Hair,Hair Treatment,61,Treatment to improve hair health
+58423bc3-9344-48b1-b429-f441549525bc,Hair,Hair Coloring,81,Full hair coloring service
+cdb77873-08e4-421d-acb4-7675021e053d,Hair,Haircut,45,Basic haircut and styling
+b008afad-9937-40bd-b96c-e980ba675f04,Hair,Hair Treatment,65,Treatment to improve hair health
+3af3b78f-2898-4789-9e46-a2db8b79ebcd,Massage,Deep Tissue Massage,94,Intense massage focused on deep tissue layers
+814a8ac8-7f94-4b0a-a2b0-ac89b6b4c85e,Hair,Hair Coloring,69,Full hair coloring service
+e4ab82e8-0e28-4ceb-8e7b-d440597937bd,Hair,Hair Treatment,69,Treatment to improve hair health
